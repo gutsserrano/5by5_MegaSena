@@ -16,7 +16,7 @@ do
         do
         {
             achou = false;
-            aux = new Random().Next(1, 60);
+            aux = new Random().Next(1, 61);
             for (int j = 0; j < cont; j++)
             {
                 if (numeros[j] == aux)
