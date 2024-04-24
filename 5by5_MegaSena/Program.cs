@@ -1,7 +1,6 @@
 ﻿// Faça um programa que sorteie os 6 numeros da mega sena e grave-os num vetor ordenado
 
-int size = 6;
-int cont;
+int size = 6, cont;
 int[] numeros = new int[size];
 int aux;
 bool achou;
